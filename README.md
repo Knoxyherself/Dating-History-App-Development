@@ -1,7 +1,7 @@
 # Dating-History-App-Full-Whammy
 
 # Dating-History-App
-# App Name (Lovelines? Ex Track? )
+# App Name (Lovelines? Ex Track? Extbook?)
 ## _High Level Planning Document_
 
 
