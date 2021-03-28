@@ -12,8 +12,10 @@ This document describes the main features of the *insert name* application. *Ins
 - Ex Name
 - Reason it ended
 
+###  ✨Required Inputs (Full Whammy) ✨
+- Gender preference (To filter out friends from love interests)
+
 ###  ✨Optional Inputs (Full Whammy) ✨
-- Ex Gender (Are you straight, gay, bi.... and does this affect the results?)
 - Ex Age (Do you always go for older men? Daddy issues?..... What's with the younger women? Are you insecure?)
 - Relationship Status (Facebook "in a relationship")
 - Financial Status (Are you seen as a gold-digger? Do you attract gold-digger types?)
@@ -25,13 +27,14 @@ This document describes the main features of the *insert name* application. *Ins
 - Correspondance buzz-words (establish if dating from typical shared language - is it affectionate, sex-related, kisses etc)
 - Correspondance times (early morning/late night)
 - Selfies together (does phone recognise photos with both faces?) 
+- Call log (person you call most often / for the longest duration)
 
 ## Data Visulisation Process (Basic)
 
 Manually input data into excel using the following column headings: 
 
 Year    |   Month | Day | Ex    |
---------| --------|-----| --------|
+--------| --------|-----| ------|
 2010    | January |1    | Trevor|
 2010    | January |2    | Steve |
 2010    | January |3    | Bob   |
